@@ -213,6 +213,11 @@
 - [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
 
 ## 경기도
+### 잉꼬칼국수
+- 종류: 한식
+- 주소: 경기도 구리시
+- 추천메뉴: 칼국수 단일메뉴 + 밑반찬 김치
+- [지도 바로가기](https://naver.me/5Q37JqY6)
 
 ## 경상남도
 
