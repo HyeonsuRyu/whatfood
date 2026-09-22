@@ -212,6 +212,8 @@
 - 추천메뉴: 부대찌개
 - [지도바로가](https://map.naver.com/p/search/%EC%9D%B4%EC%B2%9C%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C/place/1970023504?c=15.45,0,0,0,dh&placePath=/home)
 
+## 경기도
+
 ## 경상남도
 
 ## 경상북도
